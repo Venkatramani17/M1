@@ -27,7 +27,9 @@ int main()
 ```
 
 ## OUTPUT:
-![alt text](img1.png)
+<img width="1845" height="343" alt="img1" src="https://github.com/user-attachments/assets/4aa479ff-8fee-4038-a4b3-23b3b5f09243" />
+
+
 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
@@ -67,7 +69,8 @@ int main()
 ```
 
 # OUTPUT:
-![alt text](img2.png)
+<img width="1443" height="362" alt="image" src="https://github.com/user-attachments/assets/9ac19d24-ce82-41e4-9700-5486aac90bbd" />
+
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -106,7 +109,8 @@ int main()
 ```
 
 ## OUTPUT:
-![alt text](img3.png)
+<img width="1837" height="333" alt="img3" src="https://github.com/user-attachments/assets/cb9b940c-36c3-483a-b79b-1ebb9d7e9705" />
+
 
 
 ## RESULT:
@@ -150,7 +154,8 @@ int main()
 ```
 
 ## OUTPUT:
-![alt text](img4.png)
+<img width="1846" height="486" alt="img4" src="https://github.com/user-attachments/assets/36004d76-b0f0-4ee7-a191-7744bb351ff5" />
+
 
 
 ## RESULT:
@@ -219,7 +224,8 @@ int main()
 ```
 
 ## OUTPUT:
-![alt text](img5.png)
+
+<img width="1919" height="756" alt="img5" src="https://github.com/user-attachments/assets/f79ee3d2-dd99-4658-a29b-5ce6b811bede" />
 
 
 ## RESULT:
